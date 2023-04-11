@@ -50,7 +50,7 @@ atividades com GitLab/GitHub na implementação de fluxos de trabalho de integra
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=jonathas32&repo=jonathas32&theme=react)](https://github.com/jonathas32/jonathas32)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=jonathas32&repo=jonathas32&theme=react)](https://github.com/jonathas32)
 
    
 ### :books: Documentações DevOps:
