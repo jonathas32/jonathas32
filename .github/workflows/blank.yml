@@ -1,7 +1,7 @@
 # Nome da Actions:  
-name: Snake Game
+name: Pipeline
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
+# Controlador do tempo que sera feito a atualização dos arquivos
 on:
   schedule:
       # Será atualizado a cada 5 horas.
