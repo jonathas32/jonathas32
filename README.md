@@ -1,13 +1,47 @@
-### Olá! Eu sou o Jonathas Benevides👋
-  
- Analista DevOps experiencia com as tecnologias Docker, Kubernetes, Build e Deploy, AWS, Jenkins, SonarCloud, GitLab/GitHub e Datadog. Possuo certificações em Segurança da Informação (ISO/IEC 27005) v2 e Cybersecurity Framework Foundation (NIST) [``ITcerts``](https://www.credential.net/profile/jonathasdesouzabenevides327141/wallet)  e atualmente estou cursando pós-graduação com a especialização em DevOps. 
+# Jonathas Benevides - DevOps Engineer
 
-Responsável pela implementação de processos DevOps em diversos projetos da empresa, utilizando tecnologias como Docker, Kubernetes e aws.
-Trabalho junto a equipe na automação do Build e Deploy de aplicações para ambientes de desenvolvimento, hml/stg e Prd.
-gerenciamento de infraestrutura em nuvem AWS, garantindo a disponibilidade e escalabilidade dos serviços,
-atividades com GitLab/GitHub na implementação de fluxos de trabalho de integração e entrega contínua.
+## Olá! 👋
+
+Engenheiro DevOps com ampla experiência em tecnologias e práticas para automação e melhoria contínua de processos de desenvolvimento e operações.
+
+## Habilidades Técnicas 🛠️
+
+Minhas habilidades técnicas incluem:
+
+- **Docker** 🐳: Criação e gerenciamento de contêineres para implantação de aplicações.
+- **Kubernetes** ☸️: Orquestração de contêineres para escalabilidade e gerenciamento de aplicativos.
+- **Build e Deploy** 🛠️: Automação de pipelines de compilação e implantação.
+- **AWS** ☁️: Gerenciamento de infraestrutura na nuvem AWS para garantir alta disponibilidade e escalabilidade.
+- **Jenkins** 🛠️: Configuração e manutenção de pipelines de integração contínua.
+- **SonarCloud** 🔍: Análise estática de código para garantir qualidade e segurança.
+- **GitLab/GitHub** 🔗: Configuração de fluxos de trabalho para integração e entrega contínua.
+
+## Certificações 📜
+
+- **ISO/IEC 27005 v2 em Segurança da Informação**: Demonstrando comprometimento com a segurança dos dados.
+- **Cybersecurity Framework Foundation (NIST) ITcerts**: Fundamentos em segurança cibernética.
+
+## Educação 📚
+
+Atualmente, estou cursando uma pós-graduação com especialização em DevOps para aprimorar ainda mais minhas habilidades e conhecimentos.
+
+## Experiência Profissional 👨‍💼
+
+Como Engenheiro DevOps, atuo na implementação de processos DevOps em diversos projetos da empresa. Algumas das minhas principais responsabilidades incluem:
+
+- Automatização de Build e Deploy de aplicações em ambientes de desenvolvimento, homologação/staging e produção.
+- Gerenciamento de infraestrutura na nuvem AWS, assegurando a disponibilidade e escalabilidade dos serviços.
+- Configuração de fluxos de trabalho de integração e entrega contínua utilizando GitLab/GitHub.
+- Implementação de práticas de segurança da informação para proteger os ativos da empresa.
+
+Se você está em busca de um profissional altamente qualificado e comprometido com a excelência em DevOps, estou à disposição para contribuir com o sucesso do seu projeto.
+
+Fique à vontade para entrar em contato comigo! 😊
+
   
 <div style="display: inline_block">
+
+#### DevOps | Docker | kubernetes | Build e Deploy | AWS | Jenkins | SonarCloud | GitLab/GitHub| Si (ISO/IEC 27005) v2 | Cybersecurity Framework Foundation (NIST)
   
   <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
