@@ -2,7 +2,7 @@
 
 ## Olá! 👋
 
-Engenheiro DevOps com ampla experiência em tecnologias e práticas para automação e melhoria contínua de processos de desenvolvimento e operações.
+DevOps com ampla experiência em tecnologias e práticas para automação e melhoria contínua de processos de desenvolvimento e operações.
 
 ## Habilidades Técnicas 🛠️
 
